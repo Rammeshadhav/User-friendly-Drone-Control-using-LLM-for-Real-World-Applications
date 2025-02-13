@@ -11,7 +11,8 @@ System requirement:
 *  Gazebo
 *  Ardupilot plugin for drone simulation
 *  Qground control for arming drones and sending commands to drones
-*  Mavros package for drone ros communication 
+*  Mavros package for drone ros communication
+*  Please use you own Open AI API key to access the LLM model used in UI.py
 
 ```
 pip install rospy
@@ -32,3 +33,6 @@ roslaunch mavros apm.launch
 
 #this is for ui and drone control
 python ui.py 
+
+**References:**
+

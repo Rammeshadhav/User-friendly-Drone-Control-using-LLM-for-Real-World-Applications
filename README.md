@@ -1,17 +1,17 @@
-User-friendly-Drone-Control-using-LLM-for-Real-World-Applications
-Video Link: https://drive.google.com/file/d/1dOKmB3zOpzwdu78Gn23d-EAwSZEXjSmE/view?usp=sharing
+**User friendly Drone Control using LLM for Real World Applications**
+**Video Link:** https://drive.google.com/file/d/1dOKmB3zOpzwdu78Gn23d-EAwSZEXjSmE/view?usp=sharing
 
-Installtion:
+**Installtion:**
 
 System requirement:
 
-Ubuntu 20.04
-ROS: Noetic
-Python 3.6
-Gazebo
-Ardupilot plugin for drone simulation
-Qground control for arming drones and sending commands to drones
-Mavros package for drone ros communication 
+#^  Ubuntu 20.04
+#^  ROS: Noetic
+#^  Python 3.6
+#^  Gazebo
+#^  Ardupilot plugin for drone simulation
+#^  Qground control for arming drones and sending commands to drones
+#^  Mavros package for drone ros communication 
 
 ```
 pip install rospy

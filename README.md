@@ -33,6 +33,10 @@ roslaunch mavros apm.launch
 
 #this is for ui and drone control
 python ui.py 
+```
 
 **References:**
+* OpenAI. (2024). ChatGPT (GPT 3.5) [Large language model]. https://chat.openai.com/chat
+* Oborne, Michael (2019). Mission Planner (Version 1.3.70) [Computer software]. Retrieved from https://ardupilot.org/planner/
+* Thomas, D., Woodall, W., & Fernandez, E. (2014). Next-generation ROS: Building on DDS. In ROSCon Chicago 2014. OpenRobotics. https://wiki.ros.org/noetic/Installation/Ubuntu
 

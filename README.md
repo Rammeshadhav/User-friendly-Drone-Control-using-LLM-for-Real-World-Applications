@@ -26,7 +26,7 @@ pip install guidance
 
 How to execute? (works for both simualtion and real world drones)
 
-#drone ros communciation
+* Drone ros communciation
 ```
 roslaunch mavros apm.launch
 
